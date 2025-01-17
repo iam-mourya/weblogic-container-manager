@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# ====================================================================================
+# Script Name: weblogic_container_manager.sh
+# Version: v1.0
+# Description: Automates the lifecycle of Oracle WebLogic in Docker containers.
+#              It handles setup, configuration, and management tasks.
+# Author: Mourya
+# GitHub: https://github.com/iam-mourya
+# ====================================================================================
+
 # Starting WebLogic container management script...
 echo "Starting WebLogic container management script..."
 
